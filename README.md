@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:121212&height=200&section=header&text=Naeem%20Akram&fontSize=38&fontAlignY=35&fontColor=00F7FF)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&width=500&lines=Backend+Engineer;Fastify+%7C+Node.js+%7C+MySQL;System+Design+%7C+API+Architect;Open+Source+Contributor;Automation+with+Python"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&width=500&lines=Backend+Engineer;Fastify+%7C+Node.js+%7C+MySQL;System+Design+%7C+RESTful+API'S;Open+Source+Contributor"/>
 </p>
 
 ---
